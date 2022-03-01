@@ -6,3 +6,6 @@
 
 
 <a href = "https://colab.research.google.com/drive/1u-MnLgnqOv-YGaCKNpYrcOHM1vM3trE0?usp=sharing"> Python Solutions to Exercise 1.4.6 #7 </a>
+
+
+<a href = "https://colab.research.google.com/drive/1LMOvOzFuMQpO4UJJQeaUvg0pr1aKw8fn?usp=sharing"> Python Solutioons to IVP manual </a>
