@@ -9,3 +9,8 @@
 
 
 <a href = "https://colab.research.google.com/drive/1LMOvOzFuMQpO4UJJQeaUvg0pr1aKw8fn?usp=sharing"> Python Solutions to IVP manual </a>
+
+
+
+
+<a href = "https://colab.research.google.com/drive/1H7OsCGPWcz54Jdrph5uJ-zzvLHPPjqyr?usp=sharing"> ALexNet on Comparing painting Defects versus Smooth Finish </a>
